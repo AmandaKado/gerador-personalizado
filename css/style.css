@@ -8,7 +8,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #c94bff url('/imagens/background.jpg') no-repeat right top;
+    background: #af00fa url('/imagens/background-landscape.jpg') no-repeat right top;
     background-size: cover;
     backdrop-filter: blur(3px);
     display: flex;
