@@ -8,9 +8,9 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #000 url('imagens/background.jpg') no-repeat right top;
+    background: #000 url('/imagens/background-landscape.jpg') no-repeat right top;
     background-size: cover;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(8px);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,7 +18,7 @@ body {
 }
 
 main {
-    background: rgba(151, 160, 184, 0.863);
+    background: rgba(14, 5, 92, 0.267);
     border-radius: 50px;
     padding: 30px;
     margin: 30px;
@@ -37,7 +37,7 @@ section {
 }
 
 input {
-    background-color: rgba(14, 5, 92, 0.267);
+    background-color: rgba(151, 160, 184, 0.863);
     color: rgb(6, 1, 51);
     border-radius: 50px;
     border: 0px;
@@ -55,12 +55,12 @@ button {
     width: 400px;
     padding: 15px;
     background-color: rgb(10, 20, 66);
-    color: rgb(143, 154, 204);
+    color: rgba(151, 160, 184, 0.863);
     font-weight: bold;
 }
 
 h1 {
-    color: rgb(13, 35, 75);
+    color: rgba(151, 160, 184, 0.863);
     padding: 0px 0px 20px 0px;
 }
 
