@@ -23,6 +23,7 @@ main {
     margin: 30px;
     min-width: 50vh;
     min-height: 70vh;
+    max-height: 90vh;
     max-width: 90vw;
     display: flex;
     flex-direction: column;
@@ -48,6 +49,7 @@ input {
     width: 400px;
     padding: 20px 40px;
     max-width: 70vw;
+    max-height: 10vh;
 }
 
 input::placeholder {
@@ -70,6 +72,7 @@ h1 {
     color: rgba(151, 160, 184, 0.863);
     padding: 0px 0px 20px 0px;
     text-align: center;
+    font-size: large;
 }
 
 @media (max-device-width: 768px) {
