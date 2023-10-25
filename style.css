@@ -8,7 +8,8 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: rgba(151, 160, 184, 0.863) url(/imagens/bg-land.jpg) no-repeat right top;
+    background: rgba(151, 160, 184, 0.863) no-repeat right top;
+    background-image: url("/imagens/bg-land.jpg");
     background-size: cover;
     display: flex;  
     align-items: center;
